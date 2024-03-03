@@ -1,4 +1,4 @@
-### Oii! eu sou a Sabrina. 🎀
+### Oi!. 🎀
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sabrinasantnna)
 ![Sabrina stats](https://github-readme-stats.vercel.app/api?username=sasahtml&show_icons=true&theme=rose) 
