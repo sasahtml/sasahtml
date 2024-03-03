@@ -10,10 +10,4 @@
 </div>
 <div class="box">
     <img src="https://i.pinimg.com/originals/d3/ba/2d/d3ba2d467b8228a957b60ec037a052cc.jpg" width="200" height="200"/>
-    <span> </span>
-</div>
-
-<style>
-div.box {
-	width: 150px;
-	display: inline-block;
+    <span> </span></div>
